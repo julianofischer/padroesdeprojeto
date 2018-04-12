@@ -1,6 +1,7 @@
 ## Padrão Strategy
  - [Slides](https://slides.com/julianonaves-1/strategy)
- ## Padrão Factory Method
+
+## Padrão Factory Method
  - [Slides](https://slides.com/julianonaves-1/factory-method)
  
 <!-- You can use the [editor on GitHub](https://github.com/julianofischer/padroesdeprojeto/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
